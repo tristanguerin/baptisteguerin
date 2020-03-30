@@ -1,0 +1,39 @@
+h1 {
+  font-family: WorkSansBoldItalic, sans-serif;
+  font-size: 2.5em;
+  margin-left: 135px;
+}
+img {
+  width: 20%;
+}
+body {
+  background-image: url("../img/contactnav.png");
+  background-size: 100%;
+  background-attachment: scroll;
+}
+header {
+  margin-left: 135px;
+}
+
+h2,
+h3 {
+  font-family: WorkSansBoldItalic, sans-serif;
+  text-align: center;
+  font-size: 0.9em;
+  color: white;
+}
+p {
+  font-family: WorkSansMedium, sans-serif;
+  text-align: right;
+  margin-right: 135px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+p:hover {
+  text-decoration: underline;
+}
+.contact-info {
+  background-color: #1137e2;
+}
